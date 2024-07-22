@@ -49,3 +49,6 @@ The project successfully demonstrated the application of machine learning techni
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 - [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Joblib Documentation](https://joblib.readthedocs.io/en/latest/)
+**Project by:** Aidin Miralmasi
+
+**Certificate:** Matbakhonneh
